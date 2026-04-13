@@ -1,0 +1,13 @@
+<?xml version ="1.0" encoding="UTF-8"?> 
+<suite name="Test suite" parallel="methods" thread-count="2">
+<test name="Testing">
+<parameter name="Name" value="Vidya"></parameter><groups>
+<run>
+<exclude name="apple"></exclude>
+</run></groups>
+<classes>
+<class name="testNGExamples.FirstTestNGtest"></class>
+<class name="testNGExamples.SecondTestNGtest"></class>
+</classes>
+</test>
+</suite>
