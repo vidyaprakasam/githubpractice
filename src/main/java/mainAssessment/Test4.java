@@ -61,6 +61,8 @@ public class Test4 {
 		
 		JavascriptExecutor js=	(JavascriptExecutor)driver;
 		js.executeScript("arguments[0].click();", disarrow);
+		System.out.println("third modify");
+
 		
 		Thread.sleep(3000);
 
