@@ -70,6 +70,8 @@ select.selectByVisibleText("India");
 
 String countryselected=select.getFirstSelectedOption().getText();
 System.out.println(countryselected);
+System.out.println("hello");
+
 WebElement closebutton=driver.findElement(By.xpath("//button[text()='X']"));
 closebutton.click();
 
