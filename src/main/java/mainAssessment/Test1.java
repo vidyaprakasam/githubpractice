@@ -95,6 +95,8 @@ public class Test1 {
 		WebElement closebutton=driver.findElement(By.xpath("//button[text()=\"X\"]"));
 		closebutton.click();
 		Thread.sleep(2000);
+		System.out.println("first");
+
 		
 		WebElement discardbutton=driver.findElement(By.xpath("//button[text()=' Discard ']"));
 	
