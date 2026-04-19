@@ -95,6 +95,8 @@ public class Test2 {
 
 		//WebElement fromdate=driver.findElement(By.xpath("(//input[@type='date'])[1]"));
 		Thread.sleep(1000);
+		System.out.println("second");
+
 
 		//fromdate.click();
 		/*
