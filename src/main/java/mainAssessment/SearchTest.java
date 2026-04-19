@@ -6,7 +6,7 @@ public class SearchTest {
 		// TODO Auto-generated method stub
 		System.out.println("logic added");
 
-		System.out.println("search test added");
+		System.out.println("search test added..");
 
 
 	}
