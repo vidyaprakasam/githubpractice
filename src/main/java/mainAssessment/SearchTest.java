@@ -7,6 +7,11 @@ public class SearchTest {
 		System.out.println("logic added");
 
 		System.out.println("search test added..");
+		System.out.println("search test 1");
+		System.out.println("search test 2");
+		
+
+
 
 
 	}
