@@ -4,7 +4,9 @@ public class CartPage {
 	
 	public void addCart()
 	{
-		System.out.println("cart2");
+
+		System.out.println("cart1");
+
 	}
 
 	public static void main(String[] args) {
