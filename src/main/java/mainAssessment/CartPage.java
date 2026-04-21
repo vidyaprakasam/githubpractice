@@ -13,6 +13,10 @@ public class CartPage {
 
 
 	}
+		}
+		public void modifycart()
+	{
+				System.out.println("cart modified");
 
 	
 
