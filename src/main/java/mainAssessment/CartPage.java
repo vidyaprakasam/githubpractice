@@ -13,11 +13,11 @@ public class CartPage {
 
 
 	}
-		}
+
 		public void modifycart()
 	{
 				System.out.println("cart modified");
-
+	}
 	
 
 	public static void main(String[] args) {
