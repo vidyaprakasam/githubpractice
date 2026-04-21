@@ -9,9 +9,7 @@ public class CartPage {
 		int i=10;
 
 	String name="vidhu";
-	
-
-	}
+		}
 		public void modifycart()
 	{
 				System.out.println("cart modified");
