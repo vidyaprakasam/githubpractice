@@ -7,7 +7,8 @@ public class CartPage {
 
 		System.out.println("cart1");
 		int i=10;
-	String name="naveen";
+
+	String name="vidya";
 
 	}
 
